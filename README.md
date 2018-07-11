@@ -15,10 +15,10 @@ To use:
 --------------
 
 Fields:
-Auto Adjust Tiling X and Auto Adjust Tiling Y booleans can be toggled off to ignore tiling in the specified axis.
-Auto Tiling Scale Factor multiplies the tiling in the x and y. 
-Manual Tiling adds to the x and y tiling.
-Manual Offset sets the material's UV in the x and y.
+- Auto Adjust Tiling X and Auto Adjust Tiling Y booleans can be toggled off to ignore tiling in the specified axis.
+- Auto Tiling Scale Factor multiplies the tiling in the x and y. 
+- Manual Tiling adds to the x and y tiling.
+- Manual Offset sets the material's UV in the x and y.
 
 --------------
 
